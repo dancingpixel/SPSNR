@@ -11,3 +11,7 @@ Please cite us as below if you are using part of our code or dataset :
 ["Citing text will be added after the paper published"]
 
 The authors would like to thank Research Center for Satellite Technology. National Research and Innovation Agency (BRIN) for providing the datasets.
+
+HOW TO USE :
+- Run "PSNR_comparison" to perform stripe noise correction on LAPAN-A3_DATASET and to compare the PSNR value between corrected and uncorrected method.
+- Run "SSIM_comparison" to perform correction on synthetically noise-added LAPAN-A3_DATASET a
