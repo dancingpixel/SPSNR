@@ -14,4 +14,4 @@ The authors would like to thank Research Center for Satellite Technology. Nation
 
 HOW TO USE :
 - Run "PSNR_comparison" to perform stripe noise correction on LAPAN-A3_DATASET and to compare the PSNR value between corrected and uncorrected method.
-- Run "SSIM_comparison" to perform correction on synthetically noise-added LAPAN-A3_DATASET a
+- Run "SSIM_comparison" to perform correction on synthetically noise-added SYNTHETIC_DATASET using different method and calculate SSIM values by using reference image provided in LAPAN-A2_DATASET
