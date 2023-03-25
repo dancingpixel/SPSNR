@@ -1,4 +1,4 @@
-# Superpixel-based Stripe Noise Removal for Satellite Imageries (SPSNR)
+# SPSNR : A Superpixel-based Stripe Noise Removal for Satellite Imageries
 
 This page provides matlab codes and test datasets to perform superpixel-based stripe noise removal (SPSNR).
 
