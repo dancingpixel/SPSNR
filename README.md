@@ -23,4 +23,5 @@ Please cite us as below if you are using part of our code or dataset :
 - Run "SSIM_comparison" to perform correction on synthetically noise-added SYNTHETIC_DATASET using different method and calculate SSIM values by using reference image provided in LAPAN-A2_DATASET
 
 :: CREDIT
+
 The authors would like to thank Research Center for Satellite Technology, National Research and Innovation Agency (BRIN) for providing the datasets.
