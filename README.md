@@ -1,16 +1,17 @@
 # SPSNR : A Superpixel-based Stripe Noise Removal for Satellite Imageries
+DOI : https://doi.org/10.22146/jnteti.v12i2.7443
 
 This page provides matlab codes and test datasets to perform superpixel-based stripe noise removal (SPSNR).
 
 The detailed explanation of the algorithm can be read on our original paper as follow:
-1. English version (download link will be updated after the paper published).
-2. Indonesian version (download link will be updated after the paper published).
+1. English version  : https://jurnal.ugm.ac.id/v3/JNTETI/article/view/7443/2704
+2. Indonesian version : https://jurnal.ugm.ac.id/v3/JNTETI/article/view/7443/2705
 
 Please cite us as below if you are using part of our code or dataset :
 
-["Citing text will be added after the paper published"]
+[Kamirul, Khairunnisa, Ega Asti Anggari, Dicka Ariptian Rahayu, Agus Herawan, Moedji Soedjarwo, & Chusnul Tri Judianto. (2023). Superpixel-Based Stripe Noise Removal for Satellite Imageries. Jurnal Nasional Teknik Elektro Dan Teknologi Informasi, 12(2), 124-130. https://doi.org/10.22146/jnteti.v12i2.7443]
 
-The authors would like to thank Research Center for Satellite Technology. National Research and Innovation Agency (BRIN) for providing the datasets.
+The authors would like to thank Research Center for Satellite Technology, National Research and Innovation Agency (BRIN) for providing the datasets.
 
 HOW TO USE :
 - Run "PSNR_comparison" to perform stripe noise correction on LAPAN-A3_DATASET and to compare the PSNR value between corrected and uncorrected method.
