@@ -4,6 +4,7 @@ This page provides matlab codes and test datasets to perform superpixel-based st
 
 :: REFERENCE
 The detailed explanation of the algorithm can be read on our original paper as follow:
+
 DOI                   : https://doi.org/10.22146/jnteti.v12i2.7443
 1. English version    : https://jurnal.ugm.ac.id/v3/JNTETI/article/view/7443/2704
 2. Indonesian version : https://jurnal.ugm.ac.id/v3/JNTETI/article/view/7443/2705
